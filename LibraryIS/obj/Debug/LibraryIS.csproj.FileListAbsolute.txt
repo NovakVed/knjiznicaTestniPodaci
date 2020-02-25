@@ -1,0 +1,5 @@
+C:\Users\edoro\Desktop\LibraryIS_Start\LibraryIS\bin\Debug\LibraryIS.dll
+C:\Users\edoro\Desktop\LibraryIS_Start\LibraryIS\bin\Debug\LibraryIS.pdb
+C:\Users\edoro\Desktop\LibraryIS_Start\LibraryIS\obj\Debug\LibraryIS.csprojAssemblyReference.cache
+C:\Users\edoro\Desktop\LibraryIS_Start\LibraryIS\obj\Debug\LibraryIS.dll
+C:\Users\edoro\Desktop\LibraryIS_Start\LibraryIS\obj\Debug\LibraryIS.pdb
